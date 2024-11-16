@@ -3,7 +3,7 @@
 
 
 Email: chao@ucsd.edu <br />
-Section: A08 <br />
+Section: Community-Centered Discrimination Audits of LLMs: Bias Rapid Action Teams (A08) <br />
 Mentor: Stuart Geiger <br />
 
 
